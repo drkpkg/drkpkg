@@ -18,7 +18,7 @@ Hey, I'm a software developer from Bolivia 🇧🇴, I like learn new things and
   <div id="quilicura" style="display: inline-block; margin: 10px;">
     <img src="images/quilicura.png" alt="Quilicura" style="width:100px;"/>
     <p>Quilicura Distro</p>
-    <p><a href="https://www.muniquilicura.cl" target="blank">muniquilicura</a></p>
+    <p><a href="https://www.muniquilicura.cl" target="blank">www.muniquilicura.cl</a></p>
   </div>
   <div id="odoo" style="display: inline-block; margin: 10px;">
     <img src="images/odoo.png" alt="Quilicura" style="width:100px;"/>
