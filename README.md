@@ -9,6 +9,8 @@ Hey, I'm a software developer from Bolivia 🇧🇴, I like learn new things and
 
 ---
 
+More info? My complete resume [here!](https://docs.google.com/document/d/165GVJKzdiyfHtffTyA29_LN2mrNM2pKTpYmqg_kvqW0/export?format=pdf)
+
 ### Projects
 
 <div style="display: block;
@@ -72,8 +74,7 @@ Hey, I'm a software developer from Bolivia 🇧🇴, I like learn new things and
 <div style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width:50%;">
-
+  width: 50%;">
 <i class="devicon-rails-plain-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
 <i class="devicon-spring-plain-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
 <i class="devicon-django-plain-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
@@ -85,8 +86,7 @@ Hey, I'm a software developer from Bolivia 🇧🇴, I like learn new things and
 <div style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width:50%;">
-
+  width: 50%;">
 <i class="devicon-react-plain" style="font-size: 5.00em; margin: 3px;"></i>
 <i class="devicon-jquery-plain" style="font-size: 5.00em; margin: 3px;"></i> 
 <i class="devicon-html5-plain" style="font-size: 5.00em; margin: 3px;"></i> 
@@ -127,7 +127,6 @@ Hey, I'm a software developer from Bolivia 🇧🇴, I like learn new things and
   margin-left: auto;
   margin-right: auto;
   width:50%;">
-
 <i class="devicon-git-plain" style="font-size: 5.00em; margin: 3px;"></i>
 <i class="devicon-bitbucket-original" style="font-size: 5.00em; margin: 3px;"></i>
 <i class="devicon-github-original" style="font-size: 5.00em; margin: 3px;"></i>
@@ -140,7 +139,6 @@ Hey, I'm a software developer from Bolivia 🇧🇴, I like learn new things and
   margin-left: auto;
   margin-right: auto;
   width:50%;">
-
 <i class="devicon-digitalocean-plain" style="font-size: 5.00em; margin: 3px;"></i>
 <i class="devicon-linode-plain" style="font-size: 5.00em; margin: 3px;"></i>
 <i class="devicon-heroku-plain" style="font-size: 5.00em; margin: 3px;"></i>
@@ -153,7 +151,6 @@ Hey, I'm a software developer from Bolivia 🇧🇴, I like learn new things and
   margin-left: auto;
   margin-right: auto;
   width:50%;">
-
 <i class="devicon-ubuntu-plain" style="font-size: 5.00em; margin: 3px;"></i>
 <i class="devicon-yarn-plain" style="font-size: 5.00em; margin: 3px;"></i>
 <i class="devicon-npm-original-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
