@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
-## Felix Daniel Coca Calvimontes
-### drkpkg
+# Felix Daniel Coca Calvimontes (Drkpkg)
 
 ---
 
@@ -13,21 +12,19 @@ More info? My complete resume [here!](https://docs.google.com/document/d/165GVJK
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkpkg)](https://github.com/drkpkg/github-readme-stats)
 
-### Contributions
+# My contributions
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drkpkg&repo=caesar-tax)](https://github.com/drkpkg/caesar-tax)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drkpkg&repo=spree_globalize)](https://github.com/drkpkg/spree_globalize)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drkpkg&repo=spree_multi_vendor)](https://github.com/drkpkg/spree_multi_vendor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drkpkg&repo=numeric-analysis)](https://github.com/drkpkg/numeric-analysis)
 
-### Projects
+# Projects
 
 <a href="https://www.muniquilicura.cl" target="blank">
-  <img src="images/quilicura.png" alt="Quilicura" style="width:100px;"/>
+  <img src="images/quilicura.png" alt="Quilicura" width="100"/>
 </a>
-
 <img src="images/odoo.png" alt="Quilicura" width="200"/>
-
 <a href="https://midud.com/" target="blank"><img src="images/dud.JPG" alt="Dud" width="100"/></a>
 <a href="https://www.sintesis.com.bo/" target="blank">
   <img src="images/sintesis.png" alt="Sintesis" width="100"/>
@@ -36,7 +33,7 @@ More info? My complete resume [here!](https://docs.google.com/document/d/165GVJK
   <img src="images/uorkcity.jpg" alt="Uorkcity" width="100"/>
 </a>
 
-### Skills
+# Skills
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -47,14 +44,14 @@ More info? My complete resume [here!](https://docs.google.com/document/d/165GVJK
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Databases 
+# Databases 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Frameworks
+# Frameworks
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -63,52 +60,35 @@ More info? My complete resume [here!](https://docs.google.com/document/d/165GVJK
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-### Libs
+# Libs
 
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
-### Server
+# Server
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-
-### CSS
-
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:50%;">
-<i class="devicon-bootstrap-plain" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-foundation-plain" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-tailwindcss-original-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
-</div>
-
-### Version control
+# Version control
 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+# Services
 
-### Services
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+# My stack
 
-
-#### My stack
-
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:50%;">
-<i class="devicon-ubuntu-plain" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-yarn-plain" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-npm-original-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-docker-plain" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-jetbrains-plain" style="font-size: 5.00em; margin: 3px;"></i>
-</div>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
