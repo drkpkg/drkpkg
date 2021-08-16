@@ -18,30 +18,34 @@ More info? My complete resume [here!](https://docs.google.com/document/d/165GVJK
   margin-right: auto;
   width:50%;">
   <div id="quilicura" style="display: inline-block; margin: 10px;">
-    <img src="images/quilicura.png" alt="Quilicura" style="width:100px;"/>
+    <img src="images/quilicura.png" alt="Quilicura" style="width:100px;" width="100"/>
     <p>Quilicura Distro</p>
-    <p><a href="https://www.muniquilicura.cl" target="blank">www.muniquilicura.cl</a></p>
+    <p><a href="https://www.muniquilicura.cl" target="blank" width="100">www.muniquilicura.cl</a></p>
   </div>
   <div id="odoo" style="display: inline-block; margin: 10px;">
-    <img src="images/odoo.png" alt="Quilicura" style="width:100px;"/>
+    <img src="images/odoo.png" alt="Quilicura" style="width:100px;" width="100"/>
     <p>Odoo developer</p>
   </div>
   <div id="dud" style="display: inline-block; margin: 10px;">
-    <img src="images/dud.jpg" alt="Dud" style="width:100px;"/>
+    <img src="images/dud.JPG" alt="Dud" style="width:100px;" width="100"/>
     <p>Dud</p>
     <p><a href="https://midud.com/" target="blank">midud.com</a></p>
   </div>
   <div id="sintesis" style="display: inline-block; margin: 10px;">
-    <img src="images/sintesis.png" alt="Sintesis" style="width:100px;"/>
+    <img src="images/sintesis.png" alt="Sintesis" style="width:100px;" width="100"/>
     <p>Sintesis App</p>
     <p><a href="https://www.sintesis.com.bo/" target="blank">www.sintesis.com.bo</a></p>
   </div>
   <div id="uorkcity" style="display: inline-block; margin: 10px;">
-    <img src="images/uorkcity.jpg" alt="Uorkcity" style="width:100px;"/>
+    <img src="images/uorkcity.jpg" alt="Uorkcity" style="width:100px;" width="100"/>
     <p>Uorkcity</p>
     <p><a href="https://uorkcity.com/" target="blank">uorkcity.com</a></p>
   </div>
 </div>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkpkg)](https://github.com/drkpkg/github-readme-stats)
+
 
 ### Skills
 <div style="display: block;
