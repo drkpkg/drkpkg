@@ -24,7 +24,7 @@ More info? My complete resume [here!](https://docs.google.com/document/d/165GVJK
 <a href="https://www.muniquilicura.cl" target="blank">
   <img src="images/quilicura.png" alt="Quilicura" width="100"/>
 </a>
-<img src="images/odoo.png" alt="Quilicura" width="200"/>
+<a href="#"><img src="images/odoo.png" alt="Quilicura" width="200"/></a>
 <a href="https://midud.com/" target="blank"><img src="images/dud.JPG" alt="Dud" width="100"/></a>
 <a href="https://www.sintesis.com.bo/" target="blank">
   <img src="images/sintesis.png" alt="Sintesis" width="100"/>
