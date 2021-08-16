@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 ## Felix Daniel Coca Calvimontes
-#### drkpkg
+### drkpkg
 
 ---
 
@@ -11,108 +11,71 @@ Hey, I'm a software developer from Bolivia 🇧🇴, I like learn new things and
 
 More info? My complete resume [here!](https://docs.google.com/document/d/165GVJKzdiyfHtffTyA29_LN2mrNM2pKTpYmqg_kvqW0/export?format=pdf)
 
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkpkg)](https://github.com/drkpkg/github-readme-stats)
+
+### Contributions
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drkpkg&repo=caesar-tax)](https://github.com/drkpkg/caesar-tax)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drkpkg&repo=spree_globalize)](https://github.com/drkpkg/spree_globalize)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drkpkg&repo=spree_multi_vendor)](https://github.com/drkpkg/spree_multi_vendor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drkpkg&repo=numeric-analysis)](https://github.com/drkpkg/numeric-analysis)
+
 ### Projects
 
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:50%;">
-  <div id="quilicura" style="display: inline-block; margin: 10px;">
-    <img src="images/quilicura.png" alt="Quilicura" style="width:100px;" width="100"/>
-    <p>Quilicura Distro</p>
-    <p><a href="https://www.muniquilicura.cl" target="blank" width="100">www.muniquilicura.cl</a></p>
-  </div>
-  <div id="odoo" style="display: inline-block; margin: 10px;">
-    <img src="images/odoo.png" alt="Quilicura" style="width:100px;" width="100"/>
-    <p>Odoo developer</p>
-  </div>
-  <div id="dud" style="display: inline-block; margin: 10px;">
-    <img src="images/dud.JPG" alt="Dud" style="width:100px;" width="100"/>
-    <p>Dud</p>
-    <p><a href="https://midud.com/" target="blank">midud.com</a></p>
-  </div>
-  <div id="sintesis" style="display: inline-block; margin: 10px;">
-    <img src="images/sintesis.png" alt="Sintesis" style="width:100px;" width="100"/>
-    <p>Sintesis App</p>
-    <p><a href="https://www.sintesis.com.bo/" target="blank">www.sintesis.com.bo</a></p>
-  </div>
-  <div id="uorkcity" style="display: inline-block; margin: 10px;">
-    <img src="images/uorkcity.jpg" alt="Uorkcity" style="width:100px;" width="100"/>
-    <p>Uorkcity</p>
-    <p><a href="https://uorkcity.com/" target="blank">uorkcity.com</a></p>
-  </div>
-</div>
+<a href="https://www.muniquilicura.cl" target="blank">
+  <img src="images/quilicura.png" alt="Quilicura" style="width:100px;"/>
+</a>
 
+<img src="images/odoo.png" alt="Quilicura" width="200"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkpkg)](https://github.com/drkpkg/github-readme-stats)
-
+<a href="https://midud.com/" target="blank"><img src="images/dud.JPG" alt="Dud" width="100"/></a>
+<a href="https://www.sintesis.com.bo/" target="blank">
+  <img src="images/sintesis.png" alt="Sintesis" width="100"/>
+</a>
+<a href="https://uorkcity.com/" target="blank">
+  <img src="images/uorkcity.jpg" alt="Uorkcity" width="100"/>
+</a>
 
 ### Skills
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:50%;">
-<i class="devicon-java-plain-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-ruby-plain-wordmark" style="font-size: 5.00em; margin: 3px"></i>
-<i class="devicon-python-plain-wordmark" style="font-size: 5.00em; margin: 3px"></i>
-<i class="devicon-javascript-plain" style="font-size: 5.00em; margin: 3px"></i>
-<i class="devicon-dart-plain-wordmark" style="font-size: 5.00em; margin: 3px"></i>
-<i class="devicon-csharp-plain-wordmark" style="font-size: 5.00em; margin: 3px"></i>
-<i class="devicon-typescript-plain" style="font-size: 5.00em; margin: 3px"></i>
-</div>
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Databases 
 
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;">
-<i class="devicon-postgresql-plain-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-mysql-plain-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-mongodb-plain-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-firebase-plain-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Backend
+### Frameworks
 
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;">
-<i class="devicon-rails-plain-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-spring-plain-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-django-plain-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-flask-plain-wordmark" style="font-size: 5.00em; margin: 3px;"></i>
-</div>
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-### Frontend
+### Libs
 
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;">
-<i class="devicon-react-plain" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-jquery-plain" style="font-size: 5.00em; margin: 3px;"></i> 
-<i class="devicon-html5-plain" style="font-size: 5.00em; margin: 3px;"></i> 
-</div>
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Mobile
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:50%;">
-<i class="devicon-flutter-plain" style="font-size: 5.00em; margin: 3px;"></i>
-</div>
 
 ### Server
 
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:50%;">
-<i class="devicon-nginx-plain" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-apache-plain" style="font-size: 5.00em; margin: 3px;"></i>
-</div>
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 ### CSS
 
@@ -127,27 +90,15 @@ More info? My complete resume [here!](https://docs.google.com/document/d/165GVJK
 
 ### Version control
 
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:50%;">
-<i class="devicon-git-plain" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-bitbucket-original" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-github-original" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-gitlab-plain" style="font-size: 5.00em; margin: 3px;"></i>
-</div>
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 
 ### Services
 
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:50%;">
-<i class="devicon-digitalocean-plain" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-linode-plain" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-heroku-plain" style="font-size: 5.00em; margin: 3px;"></i>
-<i class="devicon-amazonwebservices-original" style="font-size: 5.00em; margin: 3px;"></i>
-</div>
+
 
 #### My stack
 
