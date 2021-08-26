@@ -19,7 +19,7 @@ More info? My complete resume [here!](https://docs.google.com/document/d/165GVJK
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drkpkg&repo=spree_multi_vendor)](https://github.com/drkpkg/spree_multi_vendor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drkpkg&repo=numeric-analysis)](https://github.com/drkpkg/numeric-analysis)
 
-# Projects
+# Projects that I was involved
 
 <a href="https://www.muniquilicura.cl" target="blank">
   <img src="images/quilicura.png" alt="Quilicura" width="100"/>
